@@ -1,0 +1,37 @@
+{
+    "name": "mb_forum_theme",
+    "component": false,
+    "license_url": null,
+    "about_url": "https://github.com/Pengchih/mb_forum_theme.git",
+    "authors": "pengchih",
+    "theme_version": 1.0,
+    "minimum_discourse_version": null,
+    "maximum_discourse_version": null,
+    "assets": {
+    },
+    "color_schemes": {
+      "Twimbit color palette": {
+        "primary": "00485A",
+        "primary-medium": "00485A",
+        "primary-low-mid": "ED6A6F",
+        "primary-low": "#d1d5de",
+        "secondary": "ffffff",
+        "tertiary": "ED6A6F",
+        "quaternary": "ED6A6F",
+        "header_background": "ffffff",
+        "header_primary": "00485A",
+        "highlight": "EFA6A9",
+        "highlight-high": "ffffff",
+        "highlight-medium": "ffffff",
+        "highlight-low": "ffffff",
+        "danger": "BB1122",
+        "success": "3d854d",
+        "love": "ED6A6F",
+        "primary-med-or-secondary-high": "00485A",
+        "header_primary-low-mid": "#9da0a7;"
+      }
+    },
+    "modifiers": {
+    },
+    "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+  }
